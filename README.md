@@ -81,7 +81,7 @@ Edit
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com//skincare-analyzer-app.git
+git clone https://github.com/SShreeC/skincare-analyzer-app.git
 cd skincare-analyzer-app
 flutter pub get
 flutter run
