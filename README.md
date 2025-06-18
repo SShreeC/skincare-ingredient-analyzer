@@ -76,7 +76,9 @@ Edit
 - Clean Beauty Score is an internal metric and not medically certified
 
 ---
-
+### Env variables
+GEMINI_API_KEY
+GEMINI_BASE_URL
 
 ## 🔧 Installation
 
